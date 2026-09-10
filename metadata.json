@@ -1,0 +1,10 @@
+{
+  "name": "巴士站 STOP ID 查詢工具",
+  "description": "在設定頁面填上 STOP ID 並選擇巴士路線，主頁面即時從政府 API (DATA.GOV.HK) 查詢並顯示所選路線接下來 3 班車的實時到站倒數分鐘。",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
